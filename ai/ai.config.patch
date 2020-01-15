@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/kkgsbax",
+		"value" : {
+			"aiFrames" : "kkgsbaxAI.png",
+			"portraitFrames" : "portraits/kkgsbaxportrait.png",
+			"staticFrames" : "statickkgsbax.png"	
+		}
+	}
+]

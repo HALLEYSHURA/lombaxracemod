@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/kkgsbax",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/kkgsbax",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]

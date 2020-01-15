@@ -1,0 +1,13 @@
+{
+	"id" : "kkgsbaxdiary",
+	"title" : "On Lombaxes",
+	"description" : "An excerpt from the Encyclopaedia Solanica.",
+	"icon" : "kkgsbaxdiarycover.png",
+	"contentPages" : [
+    "Lore here."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

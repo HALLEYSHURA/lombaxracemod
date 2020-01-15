@@ -1,0 +1,159 @@
+{
+  "kind" : "kkgsbax",
+	"charCreationTooltip" : {
+	"title" : "Lombax",
+	"subTitle" : "O2",
+	"description" : "A race of mechanics, inventors, and troublemakers, Lombaxes are as adventurous as they are crass. With a wrench in one hand and a machinegun in the other, these stripey little punks are ready to rip the galaxy a new one."
+  },
+  "nameGen" : [ "/species/kkgsbaxmalenamegen.config:names", "/species/kkgsbaxfemalenamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/kkgsbaxhurt_male1.ogg", "/sfx/humanoid/kkgsbaxhurt_female1.ogg" ],
+  "charGenTextLabels" : [ "Fur colour", "Hair style", "Shirt", "Legwear", "Fluff colour", "Stripe colour", "Shirt colour", "Legwear colour", "Lombax", "Personality" ],
+  "skull" : "/humanoid/kkgsbax/dead.png",
+  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
+  "defaultBlueprints" : {
+    "tier1" : [
+	
+  // Empty Hands
+      { "item" : "flagkkgsbax" },
+	    
+// Anvil
+      { "item" : "humantier1head" },
+      { "item" : "humantier1chest" },
+      { "item" : "humantier1pants" },
+      { "item" : "humantier2head" },
+      { "item" : "humantier2chest" },
+      { "item" : "humantier2pants" },
+      { "item" : "ironrevolver" },
+      { "item" : "ironassaultrifle" },
+      { "item" : "tungstenmagnum" },
+      { "item" : "tungstenshotgun" },
+// Anvil2
+      { "item" : "humantier3head" },
+      { "item" : "humantier3chest" },
+      { "item" : "humantier3pants" },
+      { "item" : "humantier4head" },
+      { "item" : "humantier4chest" },
+      { "item" : "humantier4pants" },
+      { "item" : "titaniummachinepistol" },
+      { "item" : "titaniumsniperrifle" },
+      { "item" : "durasteelrevolver" },
+      { "item" : "durasteelassaultrifle" },
+// Anvil3
+      { "item" : "humantier5ahead" },
+      { "item" : "humantier5achest" },
+      { "item" : "humantier5apants" },
+      { "item" : "humantier6ahead" },
+      { "item" : "humantier6achest" },
+      { "item" : "humantier6apants" },
+      { "item" : "humantier5mhead" },
+      { "item" : "humantier5mchest" },
+      { "item" : "humantier5mpants" },
+      { "item" : "humantier6mhead" },
+      { "item" : "humantier6mchest" },
+      { "item" : "humantier6mpants" },
+      { "item" : "humantier5shead" },
+      { "item" : "humantier5schest" },
+      { "item" : "humantier5spants" },
+      { "item" : "humantier6shead" },
+      { "item" : "humantier6schest" },
+      { "item" : "humantier6spants" },
+      { "item" : "aegisaltpistol" },
+      { "item" : "aegisaltbow" },
+      { "item" : "feroziumwand" },
+      { "item" : "feroziumstaff" },
+      { "item" : "violiumshortsword" },
+      { "item" : "violiumbroadsword" },
+// Furniture Table 2
+      { "item" : "humanstoragelocker" },
+      { "item" : "kkgsbaxshipdoor" },
+      { "item" : "kkgsbaxshiphatch" },
+// Spinning Wheel
+      { "item" : "kkgsbaxoutfit1chest" },
+      { "item" : "kkgsbaxoutfit1legs" },
+      { "item" : "kkgsbaxoutfit2chest" },
+      { "item" : "kkgsbaxoutfit2legs" },
+      { "item" : "kkgsbaxoutfit3chest" },
+      { "item" : "kkgsbaxoutfit3legs" },
+      { "item" : "kkgsbaxoutfit4chest" },
+      { "item" : "kkgsbaxoutfit4legs" }
+	  ]
+  },
+  
+  "altOptionAsUndyColor" : true,
+  "headOptionAsHairColor" : true,
+  "altOptionAsHairColor" : true,
+  "hairColorAsBodySubColor" : true,
+  "genders" : [
+    {
+       "name" : "male",
+      "image" : "/interface/title/kkgsbaxmaleico.png",
+      "characterImage" : "/interface/title/kkgsbaxmale.png",
+      "hair" : [ "male0" ],
+      "shirt" : [ "kkgsbaxoutfit1chest", "kkgsbaxoutfit2chest", "kkgsbaxoutfit3chest", "kkgsbaxoutfit4chest" ],
+      "pants" : [ "kkgsbaxoutfit1legs", "kkgsbaxoutfit2legs", "kkgsbaxoutfit3legs", "kkgsbaxoutfit4legs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    },
+    {
+      "name" : "female",
+      "image" : "/interface/title/kkgsbaxfemico.png",
+      "characterImage" : "/interface/title/kkgsbaxfemale.png",
+      "hair" : [ "fem0" ],
+      "shirt" : [ "kkgsbaxoutfit1chest", "kkgsbaxoutfit2chest", "kkgsbaxoutfit3chest", "kkgsbaxoutfit4chest" ],
+      "pants" : [ "kkgsbaxoutfit1legs", "kkgsbaxoutfit2legs", "kkgsbaxoutfit3legs", "kkgsbaxoutfit4legs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    }
+  ],
+  "bodyColor" : [
+    //VLITE, LITE, MEDIUM, DARK
+	//PS2 RATCHET - DESERT YELLOW
+    { "ffca8a" : "f9c657", "e0975c" : "e5ac33", "a85636" : "af7211", "6f2919" : "764516" },
+	//ANGELA BROWN
+    { "ffca8a" : "d99b39", "e0975c" : "ba7d1e", "a85636" : "885512", "6f2919" : "60370a" },
+    //ALISTER ALBINO GREY
+    { "ffca8a" : "f0e9de", "e0975c" : "ded4c0", "a85636" : "a1947f", "6f2919" : "6c6150" },
+	//KADEN ORANGE
+    { "ffca8a" : "f4b366", "e0975c" : "e6933a", "a85636" : "ac5a28", "6f2919" : "743322" },
+	//BLACK
+    { "ffca8a" : "737373, "e0975c" : "605e5c", "a85636" : "494847", "6f2919" : "363534" }
+  ],
+  "undyColor" : [
+    //MAPS TO MARKINGS AND HAIR
+	//PS2 RATCHET LIGHT YELLOW
+    { "f7e7b2" : "f3d97f", "d9c189" : "f3d97f", "a38d59" : "c1a74d", "735e3a" : "83682f" },
+	//ANGELA DESERT YELLOW
+    { "f7e7b2" : "e5ac33", "d9c189" : "e5ac33", "a38d59" : "af7211", "735e3a" : "764516" },
+	//ANGELA BROWN FUR
+    { "f7e7b2" : "ba7d1e", "d9c189" : "ba7d1e", "a38d59" : "885512", "735e3a" : "60370a" },
+	//ALISTER ALBINO WHITE
+	{ "f7e7b2" : "f0e9de", "d9c189" : "f0e9de", "a38d59" : "d3c3a9", "735e3a" : "ae9d82" },
+	//ALISTER GREY FUR
+	{ "f7e7b2" : "ded4c0", "d9c189" : "ded4c0", "a38d59" : "a1947f", "735e3a" : "6c6150" },
+	//KADEN LIGHT ORANGE
+    { "f7e7b2" : "f0b766", "d9c189" : "f0b766", "a38d59" : "c78341", "735e3a" : "945d28" },
+	//KADEN ORANGE FUR
+    { "f7e7b2" : "e6933a", "d9c189" : "e6933a", "a38d59" : "ac5a28", "735e3a" : "743322" },
+	//BLACK
+    { "f7e7b2" : "605e5c", "d9c189" : "605e5c", "a38d59" : "494847", "735e3a" : "363534" },
+	//DARK GREY
+    { "f7e7b2" : "828282", "d9c189" : "828282", "a38d59" : "6a6a6a", "735e3a" : "4b4b4b" }
+  ],
+  "hairColor" : [
+    //MAPS TO STRIPES
+    //PS2 RATCHET LIGHT BROWN
+    { "f32200" : "9d6719", "dc1f00" : "9d6719", "be1b00" : "7e4712" },
+	//ALISTER MAROON RED
+    { "f32200" : "9c372a", "dc1f00" : "9c372a", "be1b00" : "701f12" },
+	//ANGELA DARK BROWN
+    { "f32200" : "723c0c", "dc1f00" : "723c0c", "be1b00" : "45290d" },
+	//BLACK
+    { "f32200" : "272625", "dc1f00" : "272625", "be1b00" : "191817" },
+	//DARK GREY
+    { "f32200" : "3b3a39", "dc1f00" : "3b3a39", "be1b00" : "2a2928" }
+  ]
+}

@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/kkgsbax",
+		"value" : [
+		    "/ships/kkgsbax/kkgsbaxt0.structure",
+			"/ships/kkgsbax/kkgsbaxt1.structure",
+			"/ships/kkgsbax/kkgsbaxt2.structure",
+			"/ships/kkgsbax/kkgsbaxt3.structure",
+			"/ships/kkgsbax/kkgsbaxt4.structure",
+			"/ships/kkgsbax/kkgsbaxt5.structure",
+			"/ships/kkgsbax/kkgsbaxt6.structure",
+			"/ships/kkgsbax/kkgsbaxt7.structure",
+			"/ships/kkgsbax/kkgsbaxt8.structure"
+		]
+	}
+]
