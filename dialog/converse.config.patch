@@ -1,0 +1,224 @@
+[
+	{
+		"op": "add",
+		"path": "/greeting/felin",
+		"value": {
+			"default" : [
+				"Mihli!",
+				"Hi~!",
+				"Hi. I'm <selfname>. Who're you?",
+				"Hello, visitor!"
+			],
+			"avian" : [
+				"Mihli!",
+				"Hi, birdy!",
+				"Hi, dinner-I mean guest!",
+				"Hi. I'm <selfname>. Who're you?",
+				"Hello, prey."
+			],
+			"floran" : [
+				"Mihli!",
+				"Hello, plant friend.",
+				"Hi. I'm <selfname>. Who're you, plant friend?",
+				"Floran friend, hi!"
+			],
+			"human" : [
+				"Mihli.",
+				"Ah, hi.",
+				"Hello."
+			],
+			"hylotl" : [
+				"Mihli.",
+				"Oh, hello.",
+				"Hello, honored hylotl.",
+				"Master Hylotl."
+			],
+			"novakid" : [
+				"Mihli!",
+				"Starman.",
+				"Howdy, starman."
+			],
+			"felin" : [
+				"Mihli!",
+				"Mihli, vliromifhra!",
+				"Hello~!",
+				"Hello, traveler!"
+			],
+			"avali" : [
+				"Mihli!",
+				"Hi, birdy!",
+				"Hi, prey-I mean guest!"
+			],
+			"khajiit-sr" : [
+				"Hello, fellow cat.",
+				"Do'pal, friend.",
+				"May you walk on warm sands."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/converse/felin",
+		"value": {
+			"default" : [
+				"Like it around?",
+				"You came this far to visit our humble village?",
+				"You came to trade or to hunt?"
+			],
+			"apex" : [
+				"Minikong? Is that a smaller Apex?",
+				"I've always wanted to know... how far does Big Ape see?",
+				"How are things holding up for you?"
+			],
+			"avian" : [
+				"We don't pray to Kluex or anybody here. We got our heroes!",
+				"Don't worry. We may call you prey but we won't hurt you.",
+				"How fast can you run? Just wondering."
+			],
+			"floran" : [
+				"Hunter.",
+				"Good hunt to you, plant friend.",
+				"Mind your step, plant friend."
+			],
+			"human" : [
+				"Why does your kind have so little fur?",
+				"I once saw a bunch of humans in the forest with guns!",
+				"Please don't touch me?"
+			],
+			"hylotl" : [
+				"Master Hylotl.",
+				"<selfname> bows to you.",
+				"We're actually being very sarcastic towards you."
+			],
+			"novakid" : [
+				"How's it glowin', starman?",
+				"Looking hot, starman.",
+				"Is this town big enough for both of us?"
+			],
+			"felin" : [
+				"Hi. I'm <selfname>. Who're you, Hunter?",
+				"What's new, pussycat?",
+				"Big haul yesterday. 50 pixels for hugs, all for <selfname>~",
+				"Have you met this weird monk? Mike something?",
+				"The weather's so pretty, no matter what it is.",
+				"You belong to me. No arguments.",
+				"My butt itches.",
+				"Pull finger, recieve joke. Pull tail, die.",
+				"Sup, friend?",
+				"Always good to see another Felin~!",
+				"All we are is cats in the wind, friend.",
+				"Remember: be nice to each other «",
+				"How's travel?",
+				"I want chicken, I want liver~",
+				"<selfname> says wassup?"
+			],
+			"avali" : [
+				"Did the Scholars figure out the Nexus yet?",
+				"Space raptor :D",
+				"Something smells of cleaning products.",
+				"Nice feathers.",
+				"You look interesting."
+			],
+			"khajiit-sr" : [
+				"Why do you look like that?",
+				"<selfname> always knew Felin weren't the only cats around.",
+				"Is your name Ma'... Ma'-whatever?",
+				"<selfname> heard Omes-rath are prettier than you.",
+				"Got any moon sugar? No? Good!",
+				"Talos preserve me, it's another cat!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/converse/apex/felin",
+		"value": [
+			"You are as hairy as the best of us.",
+			"Perhaps you could assist me, Felin.",
+			"Do not come too close to me. I have fleas.",
+			"Would you care for a banana? I suppose not.",
+			"Don't sneak too much, cat. Miniknog is watching.",
+			"I stroke your head, you stroke mine?",
+			"I don't suppose you would hunt a Miniknog guard for me?"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/avian/felin",
+		"value": [
+			"Greetings, Hunter.",
+			"Please don't hurt me.",
+			"Wouldn't you rather chase veramin?",
+			"You're not so bad, aren't you?",
+			"How do you feel about religion, Hunter?",
+			"I have to ask, what is 'luffie' anyway?",
+			"Teeth!"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/floran/felin",
+		"value": [
+			"Cat friend.",
+			"Floran not sssstab cat friend.",
+			"Floran fight cat, but play it sssafe.",
+			"Cat friend great hunter, like floran.",
+			"Floran pet cat friend. Pet pet pet.",
+			"Meow! Floran ssspeak cat. Or not.",
+			"Cat friend body feels funny.",
+			"Cat friend look ssscary. Floran not impressed."
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/glitch/felin",
+		"value": [
+			"Curious. Are you related to the Apex?",
+			"Flirtatious. I have some objects of value if you want.",
+			"Frightened. Please do not grin at me like that.",
+			"Careful. May I stroke your fur?",
+			"Teasing. Here kitty kitty.",
+			"Annoyed. You smell of fish.",
+			"Curious. Why the propensity towards flaunting?",
+			"Flirtatious. How much for 'loofie' again?"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/human/felin",
+		"value": [
+			"Oh hello, kitty.",
+			"Why do you Feelins make me feel so warm?",
+			"Please don't come too close, I think I might be allergic.",
+			"Here kitty kitty~",
+			"So how do you feel about scratching posts?",
+			"Do you use litter boxes or toilets?",
+			"I saw a rodent of unusual size the other day.",
+			"Nice fur. Can I stroke it?"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/hylotl/felin",
+		"value": [
+			"Ah, a Hunter. I do hope I'm not a target.",
+			"Greetings, my Feline friend.",
+			"Would you like to learn about our architecture?",
+			"Have you and your kind improved your art lately?",
+			"I... I'll admit. The fur looks good on you.",
+			"What is it, Hunter?",
+			"I saw a floran the other day. How can you stand them?",
+			"Good day to you, Hunter."
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/novakid/felin",
+		"value": [
+			"You seem like a big cat from a big town!",
+			"Y'all got any more of that there fur?",
+			"Your gender's as confusin' as me 'n my kin's expressions.",
+			"Would y'all rather herd Mooshi or them... rouses I think y'call 'em?"
+		]
+	}
+]

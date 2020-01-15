@@ -1,0 +1,260 @@
+[
+	{
+		"op": "add",
+		"path": "/intimidate/intimidated/felin",
+		"value": {
+			"default": [
+				"Don't point that <item> at me! Tell <questGiver> I'll listen!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/intimidate/notIntimidated/felin",
+		"value": {
+			"default": [
+				"And why should I care what <questGiver> wants?",
+				"See if I care what <questGiver> wants."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/bribe/giftAccepted/felin",
+		"value": {
+			"default": [
+				"I really should be above taking bribes, but send my regards to <questGiver>.",
+				"Okay, I'm convinced. Send <questGiver> my regards."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/bribe/giftAccepted2/felin",
+		"value": {
+			"default": [
+				"You have to wonder what <questGiver> wants from me though..."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/bribe/requestAdditionToHouse/felin",
+		"value": {
+			"default": [
+				"Y'know, this'd look great in my home. Would you mind placing it somewhere nice?",
+				"This should go somewhere in my home. Could you place it somewhere nice for me?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/gift/giftAccepted/felin",
+		"value": {
+			"default": [
+				"Aww yeah! Tell <questGiver> I said thanks, will you?",
+				"Oh wow! Please, give my thanks to <questGiver>!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/gift/giftAccepted2/felin",
+		"value": {
+			"default": [
+				"...<questGiver> is such a friend."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/gift/requestAdditionToHouse/felin",
+		"value": {
+			"default": [
+				"This'd look great in my home. Could you place it somewhere nice for me?",
+				"This should go somewhere in my home. Would you mind placing it somewhere nice?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/return_stolen/objectTaken/felin",
+		"value": {
+			"default": [
+				"I assure you, that <item> is a legitimate acquisition."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/collect_fine/fineCollected/felin",
+		"value": {
+			"default": [
+				"A Felin would know better than to run from a fine. I'll pay."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/collect_gift/giftProvided/felin",
+		"value": {
+			"default": [
+				"There you are, one <item> for <questGiver>."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/request_craft/giftProvided/felin",
+		"value": {
+			"default": [
+				"Ah, got the <item> right here!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/borrow/giftProvided/felin",
+		"value": {
+			"default": [
+				"Certainly, <questGiver> can borrow my <item>."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/extort/giftProvided/felin",
+		"value": {
+			"default": [
+				"Alright, alright! Just take the <item> and go!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/hat/crafting/felin",
+		"value": {
+			"default": [
+				"Ah yes, that'll do nicely. Give me a moment and I'll see to it."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/hat/crafted/felin",
+		"value": {
+			"default": [
+				"Here you go. One package for <questGiver>. Could you deliver it for me?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/helmet/crafting/felin",
+		"value": {
+			"default": [
+				"Ah yes, that'll do nicely. Give me a moment and I'll see to it."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/helmet/crafted/felin",
+		"value": {
+			"default": [
+				"Here you go. One package for <questGiver>. Could you deliver it for me?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/new_stock/trade/felin",
+		"value": {
+			"default": [
+				"Here you go. One package for <questGiver>. Give them my regards."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/kidnapping/kidnappersDead/felin",
+		"value": {
+			"default": [
+				"Shameful...",
+				"Thank you, friend."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/kidnapping/followHome/felin",
+		"value": {
+			"default": [
+				"Would you mind escorting me to <questGiver>?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/escort/found/felin",
+		"value": {
+			"default": [
+				"I am so lost right now. Could you take me back to <questGiver>?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/barter/trade/felin",
+		"value": {
+			"default": [
+				"Thank you for your business. Here's <questGiver>'s <receivedItems>."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/escort_trade/collectDelivery/felin",
+		"value": {
+			"default": [
+				"Do you have something for me?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/escort_trade/provideDelivery/felin",
+		"value": {
+			"default": [
+				"Here's your stuff~"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/kill_npcs/assistantIntro/felin",
+		"value": {
+			"default": [
+				"Mihli! <questGiver> sent me to help fight the <enemy>."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/kill_npc/surrender/felin",
+		"value": {
+			"default": [
+				"I yield, okay!?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/kill_npc/betray/felin",
+		"value": {
+			"default": [
+				"Ha HAH! Mine is an evil laugh!"
+			]
+		}
+	}
+]

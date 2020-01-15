@@ -1,0 +1,14 @@
+[
+	{
+		"op": "add",
+		"path": "/converse/felin",
+		"value": {
+			"default": [
+				"Doesn't this uniform look great on me?",
+				"I wish the captain would change this tacky uniform.",
+				"We've been hunting across the stars!",
+				"Can this hunter help you?"
+			]
+		}
+	}
+]

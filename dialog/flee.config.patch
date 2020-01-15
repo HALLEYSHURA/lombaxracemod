@@ -1,0 +1,20 @@
+[
+	{ "op" : "add",
+		"path" : "/helpme/kkgsbax",
+		"value" : [
+			"Hey, stop! I'm unarmed!",
+			"Someone! HELP!",
+			"I need aid, I have no weapon!",
+			"I need aid, I have no weapon!",
+			"I need aid, I have no weapon!",
+			
+			]
+	},
+	{ "op" : "add",
+		"path" : "/safe/kkgsbax",
+		"value" : [
+			"Hoo, that was rough.",
+			"Jeez, that was rough."
+			]
+	}
+]

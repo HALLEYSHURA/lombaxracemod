@@ -1,0 +1,63 @@
+[
+	{
+		"op": "add",
+		"path": "/hail/kkgsbax",
+		"value": {
+			"default": [
+				"Watch yourself, buddy.",
+				"On duty, can't talk right now.",
+			]
+		}
+	}
+	/*
+	{
+		"op": "add",
+		"path": "/weaponwarning1/kkgsbax",
+		"value": {
+			"default": [
+				"Woah woah, this is a no-arms zone here, bud.",
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/weaponwarning2/kkgsbax",
+		"value": {
+			"default": [
+				"Put that away before I do some target practice of my own.",
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/weaponwarning3/kkgsbax",
+		"value": {
+			"default": [
+				"Trigger finger's getting super itchy...",
+				"Last warning - drop the weapon.",
+				"What part of 'put your weapon away' are you not getting?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/weaponSheathed/kkgsbax",
+		"value": {
+			"default": [
+				"Good. Let's keep it that way."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/comeBack/kkgsbax",
+		"value": {
+			"default": [
+				"Hey!",
+				"Get over here!",
+				"Now you f°cked up!"
+			]
+		}
+	}
+	*/
+]
