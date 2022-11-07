@@ -21,6 +21,7 @@
   "humanDescription" : "If I can reboot this station SAIL should come back online",
   "hylotlDescription" : "This console will allow me to communicate with SAIL. I need to reboot it first.",
   "novakidDescription" : "Time to reboot this station so I can talk to SAIL.",
+  "kkgsbaxDescription" : "Gotta fix this if I want to talk to SAIL.",
   "inventoryIcon" : "kkgsbaxtechstationiconTier0.png",
   "orientations" : [
     {

@@ -4,13 +4,8 @@
     "path": "/kkgsbaxStarterTreasure",
     "value": [[0, {
       "fill" : [
-	    {"item" : [ "flashlight" ]},
-        {"item" : [ "torch", 10 ]},
-        {"item" : [ "kkgsbaxsword", 1 ]},
-        {"item" : [ "cannedfood", 1 ]},
-        {"item" : [ "cannedfood", 1 ]},
-        {"item" : [ "cannedfood", 1 ]},
-        {"item" : [ "cannedfood", 1 ]}
+        {"pool" : "starterTreasure"},
+        {"item" : [ "kkgsbaxsword", 1 ]}
       ]
     }]]
   }

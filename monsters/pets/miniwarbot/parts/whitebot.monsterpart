@@ -1,9 +1,0 @@
-{
-  "name" : "whitebot",
-  "category" : "miniwarbot",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "whitebot.png"
-  }
-}

@@ -3,11 +3,11 @@
 	"charCreationTooltip" : {
 	"title" : "Lombax",
 	"subTitle" : "O2",
-	"description" : "A race of mechanics, inventors, and troublemakers, Lombaxes are as adventurous as they are crass. With a wrench in one hand and a machinegun in the other, these stripey little punks are ready to rip the galaxy a new one."
+	"description" : "A race of mechanics, inventors, and troublemakers, Lombaxes are as adventurous as they are crass. With a wrench in one hand and a blaster in the other, these stripey little punks are ready to rip the galaxy a new one."
   },
   "nameGen" : [ "/species/kkgsbaxmalenamegen.config:names", "/species/kkgsbaxfemalenamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/kkgsbaxhurt_male1.ogg", "/sfx/humanoid/kkgsbaxhurt_female1.ogg" ],
-  "charGenTextLabels" : [ "Fur colour", "Hair style", "Shirt", "Legwear", "Fluff colour", "Stripe colour", "Shirt colour", "Legwear colour", "LOMBAX", "Personality" ],
+  "charGenTextLabels" : [ "Fur colour", "Hair style", "Shirt", "Legwear", "Stripe colour", "Fluff colour", "Shirt colour", "Legwear colour", "LOMBAX", "Personality" ],
   "skull" : "/humanoid/kkgsbax/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
   "defaultBlueprints" : {
@@ -15,7 +15,8 @@
 	
   // Empty Hands
       { "item" : "flagkkgsbax" },
-  // Anvil
+	    
+// Anvil
       { "item" : "humantier1head" },
       { "item" : "humantier1chest" },
       { "item" : "humantier1pants" },
@@ -26,7 +27,7 @@
       { "item" : "ironassaultrifle" },
       { "item" : "tungstenmagnum" },
       { "item" : "tungstenshotgun" },
-  // Anvil2
+// Anvil2
       { "item" : "humantier3head" },
       { "item" : "humantier3chest" },
       { "item" : "humantier3pants" },
@@ -37,7 +38,7 @@
       { "item" : "titaniumsniperrifle" },
       { "item" : "durasteelrevolver" },
       { "item" : "durasteelassaultrifle" },
-  // Anvil3
+// Anvil3
       { "item" : "humantier5ahead" },
       { "item" : "humantier5achest" },
       { "item" : "humantier5apants" },
@@ -62,11 +63,11 @@
       { "item" : "feroziumstaff" },
       { "item" : "violiumshortsword" },
       { "item" : "violiumbroadsword" },
-  // Furniture Table 2
+// Furniture Table 2
       { "item" : "humanstoragelocker" },
       { "item" : "kkgsbaxshipdoor" },
       { "item" : "kkgsbaxshiphatch" },
-  // Spinning Wheel
+// Spinning Wheel
       { "item" : "kkgsbaxoutfit1chest" },
       { "item" : "kkgsbaxoutfit1legs" },
       { "item" : "kkgsbaxoutfit2chest" },
@@ -178,6 +179,5 @@
     { "f32200" : "b6644e", "dc1f00" : "b6644e", "be1b00" : "78372c" },
 	//DUST BROWN
     { "f32200" : "876741", "dc1f00" : "876741", "be1b00" : "52402c" }
-
   ]
 }

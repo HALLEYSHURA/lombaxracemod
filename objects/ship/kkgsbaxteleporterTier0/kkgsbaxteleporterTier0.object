@@ -15,6 +15,7 @@
   "humanDescription" : "The teleporter Too bad it isn't powered up.",
   "hylotlDescription" : "This teleporter is off.",
   "novakidDescription" : "Ship's teleporter. I need to power her up",
+  "kkgsbaxDescription" : "Right, need to power this thing before I can go anywhere.",
   "objectType" : "loungeable",
   "sitFlipDirection" : true,
   "sitOrientation" : "lay",

@@ -17,6 +17,7 @@
   "humanDescription" : "This station allows me to communicate with SAIL.",
   "hylotlDescription" : "This console allows me to communicate with SAIL.",
   "novakidDescription" : "This here station let's me talk with SAIL.",
+  "kkgsbaxDescription" : "I can use this console to talk to SAIL.",
   "inventoryIcon" : "kkgsbaxtechstationicon.png",
   "orientations" : [
     {
@@ -34,7 +35,7 @@
     "/objects/spawner/techstation.lua"
   ],
   "scriptDelta" : 20,
-  "shipPetType" : "miniwarbot",
+  "shipPetType" : "petbunny",
   "spawnOffset" : [2, -1],
   "chatPortrait" : "/ai/portraits/kkgsbaxportrait.png:yell.1",
   "dialog" : {

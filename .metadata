@@ -1,10 +1,11 @@
 {
+  "tags" : "Species",
   "author" : "kokorogensou",
-  "description" : "Play as everyone's favorite race of trigger-happy desert rats from the Solana Galaxy!",
-  "friendlyName" : "Lombax Race Mod",
+  "description" : "A retro-style spin on everyone's favorite race of trigger-happy desert rats!",
+  "friendlyName" : "Old World Lombaxes",
   "link" : "",
   "name" : "KKGSLombaxRaceMod",
   "path" : ".",
   "steamContentId" : "",
-  "version" : "Starbound 1.0 - Stable (Mod Version 0.5)"
+  "version" : "alpha"
 }

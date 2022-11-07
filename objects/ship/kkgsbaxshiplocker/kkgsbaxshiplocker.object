@@ -17,6 +17,7 @@
   "humanDescription" : "A ship's locker.",
   "hylotlDescription" : "Perhaps something useful is inside this locker.",
   "novakidDescription" : "A locker, for puttin' things in.",
+  "kkgsbaxDescription" : "A locker! Could store some stuff in here.",
   "inventoryIcon" : "shiplockericon.png",
   "orientations" : [
     {

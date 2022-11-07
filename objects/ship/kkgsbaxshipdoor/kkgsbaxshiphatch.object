@@ -5,7 +5,7 @@
   "category" : "door",
   "price" : 125,
   "description" : "A hatch suitable for a spaceship.",
-  "shortdescription" : "kkgsbax Ship Hatch",
+  "shortdescription" : "Lombax Ship Hatch",
   "race" : "kkgsbax",
   "apexDescription" : "These hatches are used on all our ships.",
   "avianDescription" : "A spaceship hatch.",
@@ -14,6 +14,7 @@
   "humanDescription" : "Cool hatch.",
   "hylotlDescription" : "A basic ship hatch.",
   "novakidDescription" : "A hatch.",
+  "kkgsbaxDescription" : "It's a ship hatch.",
   "inventoryIcon" : "kkgsbaxshiphatchicon.png",
   "orientations" : [
     {
