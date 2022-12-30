@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestwear",
-  "description" : "A simple jacket, in case it gets a bit chilly.",
-  "shortdescription" : "Casual Cardigan",
+  "description" : "When you're doing heavy work, you gotta dress lightly.",
+  "shortdescription" : "Mechanic's Harness",
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "chestm.png",

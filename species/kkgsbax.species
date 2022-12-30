@@ -3,7 +3,7 @@
 	"charCreationTooltip" : {
 	"title" : "Lombax",
 	"subTitle" : "O2",
-	"description" : "A race of mechanics, inventors, and troublemakers, Lombaxes are as adventurous as they are crass. With a wrench in one hand and a blaster in the other, these stripey little punks are ready to rip the galaxy a new one."
+	"description" : "Hailing from the distant Solana Galaxy, Lombaxes have an instinctive affinity towards machinery and mayhem. With a wrench in one hand and a blaster in the other, these stripey little punks are ready to rip this universe a new one."
   },
   "nameGen" : [ "/species/kkgsbaxmalenamegen.config:names", "/species/kkgsbaxfemalenamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/kkgsbaxhurt_male1.ogg", "/sfx/humanoid/kkgsbaxhurt_female1.ogg" ],
