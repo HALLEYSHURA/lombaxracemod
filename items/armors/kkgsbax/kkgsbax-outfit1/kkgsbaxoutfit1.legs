@@ -6,11 +6,11 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "legwear",
-  "description" : "They're longer than your average shorts.",
-  "shortdescription" : "Mechanic's Slacks",
+  "description" : "Pants for the modern gun-wielding adventurer.",
+  "shortdescription" : "Ranger's Trousers",
   "tooltipKind" : "armor",
-  "maleFrames" : "pantsM.png",
-  "femaleFrames" : "pantsF.png",
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
   "colorOptions" : [
     // BLUE
     { "ffca8a" : "96cbe7", "e0975c" : "5588d4", "a85636" : "344495", "6f2919" : "1a1c51" },

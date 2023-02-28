@@ -3,11 +3,11 @@
 	"charCreationTooltip" : {
 	"title" : "Lombax",
 	"subTitle" : "O2",
-	"description" : "Hailing from the distant Solana Galaxy, Lombaxes have an instinctive affinity towards machinery and mayhem. With a wrench in one hand and a blaster in the other, these stripey little punks are ready to rip this universe a new one."
+	"description" : "Hailing from a distant galaxy, Lombaxes have an instinctive affinity towards machinery and mayhem. With a wrench in one hand and a blaster in the other, these stripey little punks are ready to rip this universe a new one."
   },
   "nameGen" : [ "/species/kkgsbaxmalenamegen.config:names", "/species/kkgsbaxfemalenamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/kkgsbaxhurt_male1.ogg", "/sfx/humanoid/kkgsbaxhurt_female1.ogg" ],
-  "charGenTextLabels" : [ "Fur colour", "Hair style", "Shirt", "Legwear", "Stripe colour", "Fluff colour", "Shirt colour", "Legwear colour", "LOMBAX", "Personality" ],
+  "charGenTextLabels" : [ "Fur colour", "Features", "Shirt", "Legwear", "Stripe colour", "Fluff colour", "Shirt colour", "Legwear colour", "LOMBAX", "Personality" ],
   "skull" : "/humanoid/kkgsbax/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
   "defaultBlueprints" : {
@@ -85,10 +85,10 @@
   "hairColorAsBodySubColor" : true,
   "genders" : [
     {
-       "name" : "male",
+      "name" : "male",
       "image" : "/interface/title/kkgsbaxmaleico.png",
       "characterImage" : "/interface/title/kkgsbaxmale.png",
-      "hair" : [ "lombald" ],
+      "hair" : [ "m0", "m1", "m1a", "m1b", "m1c", "m2", "m2a", "m2b", "m2c", "m3", "m3a", "m3b", "m3c", "m4", "m4a", "m4b", "m4c", "m5", "m5a", "m5b", "m5c", "m6", "m6a", "m6b", "m6c", "m7", "m7a", "m7b", "m7c", "m8", "m8a", "m9", "m9a", "m10", "m10a" ],
       "shirt" : [ "kkgsbaxoutfit1chest", "kkgsbaxoutfit2chest", "kkgsbaxoutfit3chest", "kkgsbaxoutfit4chest" ],
       "pants" : [ "kkgsbaxoutfit1legs", "kkgsbaxoutfit2legs", "kkgsbaxoutfit3legs", "kkgsbaxoutfit4legs" ],
       "facialHairGroup" : "",
@@ -100,7 +100,7 @@
       "name" : "female",
       "image" : "/interface/title/kkgsbaxfemico.png",
       "characterImage" : "/interface/title/kkgsbaxfemale.png",
-      "hair" : [ "lombald" ],
+      "hair" : [ "f0", "f0a", "f0b", "f1", "f1a", "f1b", "f1s", "f1as", "f1bs", "f2", "f2a", "f2b", "f3", "f3a", "f3b", "f4", "f4a", "f4b", "f5", "f5a", "f5b", "f6", "f6a", "f7", "f7a", "f7b", "f8", "f8a", "f8b", "f9", "f9a", "f9b", "f10", "f10a", "f10b", "f10s", "f10as", "f10bs", "f11", "f11a", "f11b", "f12", "f12a", "f12b", "f13", "f13a", "f13b", "f14", "f14a", "f14b", "f15", "f15a", "f15b" ],
       "shirt" : [ "kkgsbaxoutfit1chest", "kkgsbaxoutfit2chest", "kkgsbaxoutfit3chest", "kkgsbaxoutfit4chest" ],
       "pants" : [ "kkgsbaxoutfit1legs", "kkgsbaxoutfit2legs", "kkgsbaxoutfit3legs", "kkgsbaxoutfit4legs" ],
       "facialHairGroup" : "",
@@ -110,54 +110,143 @@
     }
   ],
   "bodyColor" : [
-    //VLITE, LITE, MEDIUM, DARK
-	//PS2 RATCHET - DESERT YELLOW
-    { "ffca8a" : "f9c657", "e0975c" : "e5ac33", "a85636" : "af7211", "6f2919" : "764516" },
-	//ANGELA - BROWN
+//DARK RUST
+    { "ffca8a" : "964440", "e0975c" : "7E302A", "a85636" : "5C2222", "6f2919" : "421A1A" },
+//RED
+    { "ffca8a" : "D45668", "e0975c" : "C63442", "a85636" : "971D1D", "6f2919" : "681010" },
+//STRAWBERRY
+    { "ffca8a" : "F56165", "e0975c" : "E0383F", "a85636" : "B92533", "6f2919" : "812128" },
+//SUNSET RED
+    { "ffca8a" : "F4776A", "e0975c" : "E85E4C", "a85636" : "C83C2E", "6f2919" : "A31E17" },
+//RUST
+    { "ffca8a" : "D8592C", "e0975c" : "BE471B", "a85636" : "9B2F0C", "6f2919" : "702710" },
+
+//SHERBET ORANGE
+    { "ffca8a" : "FFC17F", "e0975c" : "FCAA5A", "a85636" : "E98023", "6f2919" : "C65E18" },
+
+//ORANGE
+    { "ffca8a" : "ECB06A", "e0975c" : "DD9435", "a85636" : "AF5C19", "6f2919" : "743012" },
+//GOLDEN BROWN
     { "ffca8a" : "d99b39", "e0975c" : "ba7d1e", "a85636" : "885512", "6f2919" : "60370a" },
-    //ALISTER - ALBINO GREY
-    { "ffca8a" : "f0e9de", "e0975c" : "ded4c0", "a85636" : "a1947f", "6f2919" : "6c6150" },
-	//KADEN - ORANGE
-    { "ffca8a" : "ecb06a", "e0975c" : "dd9435", "a85636" : "a05920", "6f2919" : "6d3415" },
-	//BLACK
-    { "ffca8a" : "737373", "e0975c" : "605e5c", "a85636" : "494847", "6f2919" : "363534" },
-	//DUST YELLOW
-    { "ffca8a" : "e9cc8d", "e0975c" : "d9b55f", "a85636" : "a08242", "6f2919" : "6c572a" },
-	//CREAM
-    { "ffca8a" : "fbeacd", "e0975c" : "f4dbb4", "a85636" : "b48e68", "6f2919" : "78573e" },
-	//CHOCOLATE
-    { "ffca8a" : "aa8158", "e0975c" : "8f653d", "a85636" : "67422b", "6f2919" : "4a2d1c" }
-  ],
-  "undyColor" : [
-    //MAPS TO MARKINGS AND HAIR
-	//PS2 RATCHET - YELLOW
-    { "f7e7b2" : "feda5c", "d9c189" : "feda5c", "a38d59" : "e7b743", "735e3a" : "bb7e1d" },
-	//ANGELA - DESERT YELLOW
-    { "f7e7b2" : "e5ac33", "d9c189" : "e5ac33", "a38d59" : "af7211", "735e3a" : "764516" },
-	//ANGELA - BROWN FUR
-    { "f7e7b2" : "ba7d1e", "d9c189" : "ba7d1e", "a38d59" : "885512", "735e3a" : "60370a" },
-	//ALISTER - ALBINO WHITE
-	{ "f7e7b2" : "f0e9de", "d9c189" : "f0e9de", "a38d59" : "d3c3a9", "735e3a" : "ae9d82" },
-	//ALISTER - GREY FUR
-	{ "f7e7b2" : "ded4c0", "d9c189" : "ded4c0", "a38d59" : "a1947f", "735e3a" : "6c6150" },
-	//KADEN - LIGHT ORANGE
-    { "f7e7b2" : "f0b766", "d9c189" : "f0b766", "a38d59" : "c78341", "735e3a" : "945d28" },
-	//KADEN - ORANGE FUR
-    { "f7e7b2" : "dd9435", "d9c189" : "dd9435", "a38d59" : "a05920", "735e3a" : "6d3415" },
-	//BLACK
-    { "f7e7b2" : "605e5c", "d9c189" : "605e5c", "a38d59" : "494847", "735e3a" : "363534" },
-	//DARK GREY
-    { "f7e7b2" : "828282", "d9c189" : "828282", "a38d59" : "6a6a6a", "735e3a" : "4b4b4b" },
-	//DUST
-    { "f7e7b2" : "e1ce9f", "d9c189" : "e1ce9f", "a38d59" : "b5a583", "735e3a" : "847154" },
-	//DUST YELLOW
-    { "f7e7b2" : "d9b55f", "d9c189" : "d9b55f", "a38d59" : "a08242", "735e3a" : "6c572a" },
-	//CREAM
-    { "f7e7b2" : "f4dbb4", "d9c189" : "f4dbb4", "a38d59" : "b48e68", "735e3a" : "78573e" },
-	//CHOCOLATE
-    { "f7e7b2" : "8f653d", "d9c189" : "8f653d", "a38d59" : "67422b", "735e3a" : "4a2d1c" }
+//DESERT ORANGE
+    { "ffca8a" : "F9C657", "e0975c" : "E5AC33", "a85636" : "AF7211", "6f2919" : "764516" },
+//YELLOW
+    { "ffca8a" : "FFEA9F", "e0975c" : "FEDA5C", "a85636" : "E2AD3A", "6f2919" : "BB7E1D" },
+//LEMONADE YELLOW
+    { "ffca8a" : "FFF4CF", "e0975c" : "F9E7A1", "a85636" : "EDCD5D", "6f2919" : "DCB428" },
+
+//YELLOW GREEN
+    { "ffca8a" : "B1DF43", "e0975c" : "9FD13D", "a85636" : "83AD22", "6f2919" : "6B880B" },
+//GREEN
+    { "ffca8a" : "7FCF49", "e0975c" : "6AB841", "a85636" : "45902F", "6f2919" : "296219" },
+//MOSS GREEN
+    { "ffca8a" : "B6D999", "e0975c" : "9AC07E", "a85636" : "708C5C", "6f2919" : "526643" },
+
+//ICY BLUE
+    { "ffca8a" : "C1F7EF", "e0975c" : "A8E2DA", "a85636" : "7EB8AF", "6f2919" : "568880" },
+//AQUA
+    { "ffca8a" : "7ACECD", "e0975c" : "5FB2B6", "a85636" : "348A89", "6f2919" : "256160" },
+//BLUE GRAY
+    { "ffca8a" : "82BAB9", "e0975c" : "6E9FA2", "a85636" : "507476", "6f2919" : "3B5556" },
+
+//ARCTIC
+    { "ffca8a" : "F2F5FE", "e0975c" : "E2E7F8", "a85636" : "C2CBE6", "6f2919" : "99A4C7" },
+
+//BROWN
+    { "ffca8a" : "9D7349", "e0975c" : "875F37", "a85636" : "68412A", "6f2919" : "482A1C" },
+//LATTE
+    { "ffca8a" : "C1A275", "e0975c" : "A8875A", "a85636" : "7B6342", "6f2919" : "5A4930" },
+//SAND
+    { "ffca8a" : "F1E0BB", "e0975c" : "E1CE9F", "a85636" : "B5A177", "6f2919" : "816E51" },
+
+//DUST
+    { "ffca8a" : "C2B5AE", "e0975c" : "A39994", "a85636" : "77706C", "6f2919" : "534F4D" },
+//DARK DUST
+    { "ffca8a" : "90837C", "e0975c" : "7D7069", "a85636" : "574D48", "6f2919" : "3B3533" },
+
+//WHITE
+    { "ffca8a" : "F8F8F8", "e0975c" : "EBEBEB", "a85636" : "C8C8C8", "6f2919" : "A0A0A0" },
+//SILVER
+    { "ffca8a" : "E1E1E1", "e0975c" : "CECECE", "a85636" : "A8A8A8", "6f2919" : "7F7F7F" },
+//LIGHT GREY
+    { "ffca8a" : "BEBEBE", "e0975c" : "A5A5A5", "a85636" : "7D7D7D", "6f2919" : "595959" },
+//GREY
+    { "ffca8a" : "989898", "e0975c" : "828282", "a85636" : "5F5F5F", "6f2919" : "414141" },
+//DARK GREY
+    { "ffca8a" : "757575", "e0975c" : "626262", "a85636" : "494949", "6f2919" : "323232" },
+//BLACK
+    { "ffca8a" : "555555", "e0975c" : "464646", "a85636" : "343434", "6f2919" : "272727" }
   ],
   "hairColor" : [
+
+//DARK RUST
+    { "f7e7b2" : "964440", "d9c189" : "7E302A", "a38d59" : "5C2222", "735e3a" : "421A1A" },
+//RED
+    { "f7e7b2" : "D45668", "d9c189" : "C63442", "a38d59" : "971D1D", "735e3a" : "681010" },
+//STRAWBERRY
+    { "f7e7b2" : "F56165", "d9c189" : "E0383F", "a38d59" : "B92533", "735e3a" : "812128" },
+//SUNSET RED
+    { "f7e7b2" : "F4776A", "d9c189" : "E85E4C", "a38d59" : "C83C2E", "735e3a" : "A31E17" },
+//RUST
+    { "f7e7b2" : "D8592C", "d9c189" : "BE471B", "a38d59" : "9B2F0C", "735e3a" : "702710" },
+
+//SHERBET ORANGE
+    { "f7e7b2" : "FFC17F", "d9c189" : "FCAA5A", "a38d59" : "E98023", "735e3a" : "C65E18" },
+
+//ORANGE
+    { "f7e7b2" : "ECB06A", "d9c189" : "DD9435", "a38d59" : "AF5C19", "735e3a" : "743012" },
+//GOLDEN BROWN
+    { "f7e7b2" : "d99b39", "d9c189" : "ba7d1e", "a38d59" : "885512", "735e3a" : "60370a" },
+//DESERT ORANGE
+    { "f7e7b2" : "F9C657", "d9c189" : "E5AC33", "a38d59" : "AF7211", "735e3a" : "764516" },
+//YELLOW
+    { "f7e7b2" : "FFEA9F", "d9c189" : "FEDA5C", "a38d59" : "E2AD3A", "735e3a" : "BB7E1D" },
+//LEMONADE YELLOW
+    { "f7e7b2" : "FFF4CF", "d9c189" : "F9E7A1", "a38d59" : "EDCD5D", "735e3a" : "DCB428" },
+
+//YELLOW GREEN
+    { "f7e7b2" : "B1DF43", "d9c189" : "9FD13D", "a38d59" : "83AD22", "735e3a" : "6B880B" },
+//GREEN
+    { "f7e7b2" : "7FCF49", "d9c189" : "6AB841", "a38d59" : "45902F", "735e3a" : "296219" },
+//MOSS GREEN
+    { "f7e7b2" : "B6D999", "d9c189" : "9AC07E", "a38d59" : "708C5C", "735e3a" : "526643" },
+
+//ICY BLUE
+    { "f7e7b2" : "C1F7EF", "d9c189" : "A8E2DA", "a38d59" : "7EB8AF", "735e3a" : "568880" },
+//AQUA
+    { "f7e7b2" : "7ACECD", "d9c189" : "5FB2B6", "a38d59" : "348A89", "735e3a" : "256160" },
+//BLUE GRAY
+    { "f7e7b2" : "82BAB9", "d9c189" : "6E9FA2", "a38d59" : "507476", "735e3a" : "3B5556" },
+
+//ARCTIC
+    { "f7e7b2" : "F2F5FE", "d9c189" : "E2E7F8", "a38d59" : "C2CBE6", "735e3a" : "99A4C7" },
+
+//BROWN
+    { "f7e7b2" : "9D7349", "d9c189" : "875F37", "a38d59" : "68412A", "735e3a" : "482A1C" },
+//LATTE
+    { "f7e7b2" : "C1A275", "d9c189" : "A8875A", "a38d59" : "7B6342", "735e3a" : "5A4930" },
+//SAND
+    { "f7e7b2" : "F1E0BB", "d9c189" : "E1CE9F", "a38d59" : "B5A177", "735e3a" : "816E51" },
+
+//DUST
+    { "f7e7b2" : "C2B5AE", "d9c189" : "A39994", "a38d59" : "77706C", "735e3a" : "534F4D" },
+//DARK DUST
+    { "f7e7b2" : "90837C", "d9c189" : "7D7069", "a38d59" : "574D48", "735e3a" : "3B3533" },
+
+//WHITE
+    { "f7e7b2" : "F8F8F8", "d9c189" : "EBEBEB", "a38d59" : "C8C8C8", "735e3a" : "A0A0A0" },
+//SILVER
+    { "f7e7b2" : "E1E1E1", "d9c189" : "CECECE", "a38d59" : "A8A8A8", "735e3a" : "7F7F7F" },
+//LIGHT GREY
+    { "f7e7b2" : "BEBEBE", "d9c189" : "A5A5A5", "a38d59" : "7D7D7D", "735e3a" : "595959" },
+//GREY
+    { "f7e7b2" : "989898", "d9c189" : "828282", "a38d59" : "5F5F5F", "735e3a" : "414141" },
+//DARK GREY
+    { "f7e7b2" : "757575", "d9c189" : "626262", "a38d59" : "494949", "735e3a" : "323232" },
+//BLACK
+    { "f7e7b2" : "555555", "d9c189" : "464646", "a38d59" : "343434", "735e3a" : "272727" }
+  ],
+  "undyColor" : [
     //MAPS TO STRIPES
     //PS2 RATCHET - LIGHT BROWN
     { "f32200" : "9d6719", "dc1f00" : "9d6719", "be1b00" : "7e4712" },
