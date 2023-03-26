@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestwear",
-  "description" : "Your chest is warm, but what of your arms?",
-  "shortdescription" : "Specialist Jacket",
+  "description" : "The pockets are full of shady-looking business cards...",
+  "shortdescription" : "Hacker's Vest",
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "chestm.png",
@@ -19,8 +19,8 @@
     "frontSleeve" : "fsleeve.png"
   },
   "colorOptions" : [
-    // BLUE
-    { "ffca8a" : "96cbe7", "e0975c" : "5588d4", "a85636" : "344495", "6f2919" : "1a1c51" },
+    // RED
+    { "ffca8a" : "f4988c", "e0975c" : "d93a3a", "a85636" : "932625", "6f2919" : "601119" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

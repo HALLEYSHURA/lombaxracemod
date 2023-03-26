@@ -1,8 +1,8 @@
 {
   "itemName" : "kkgsbaxclassicback",
-  "price" : 5000,
+  "price" : 500,
   "inventoryIcon" : "icons.png:back",
-  "rarity" : "Legendary",
+  "rarity" : "Uncommon",
   "category" : "backwear",
   "description" : "A defective warbot. It can't fight, but it'll keep you company as you travel the stars!",
   "shortdescription" : "Bot Buddy",

@@ -1,9 +1,9 @@
 {
   "itemName" : "kkgsbaxclassichead",
-  "price" : 5000,
+  "price" : 250,
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
-  "rarity" : "Legendary",
+  "rarity" : "Uncommon",
   "category" : "headwear",
   "description" : "A leather cap perfect for a lombax on the job.",
   "shortdescription" : "Mechanic's Cap",
@@ -14,8 +14,8 @@
   "mask" : "mask.png",
 
   "colorOptions" : [
-    // PINK
-    { "ffca8a" : "eab3db", "e0975c" : "d35eae", "a85636" : "97276d", "6f2919" : "59163f" },
+    // BROWN
+    { "ffca8a" : "754c23", "e0975c" : "754c23", "a85636" : "472b13", "6f2919" : "472b13" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

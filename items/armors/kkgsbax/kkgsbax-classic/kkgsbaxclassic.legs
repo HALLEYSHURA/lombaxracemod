@@ -1,9 +1,9 @@
 {
   "itemName" : "kkgsbaxclassiclegs",
-  "price" : 5000,
+  "price" : 250,
   "inventoryIcon" : "icons.png:pants",
   "maxStack" : 1,
-  "rarity" : "Legendary",
+  "rarity" : "Uncommon",
   "category" : "legwear",
   "description" : "No shoes, all service.",
   "shortdescription" : "Mechanic's Slacks",
@@ -13,8 +13,8 @@
   "femaleFrames" : "pants.png",
 
   "colorOptions" : [
-    // GREEN
-    { "ffca8a" : "b2e89d", "e0975c" : "51bd3b", "a85636" : "247824", "6f2919" : "144216" },
+    // TEAL
+    { "ffca8a" : "3E756B", "e0975c" : "3E756B", "a85636" : "244A42", "6f2919" : "153029" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

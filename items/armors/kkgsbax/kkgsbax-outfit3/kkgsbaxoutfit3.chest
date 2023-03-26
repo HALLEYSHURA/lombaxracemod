@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestwear",
-  "description" : "Your chest is warm, but what of your arms?",
-  "shortdescription" : "Sweater Vest",
+  "description" : "A jumpsuit for those who do heavy work in a professional environment.",
+  "shortdescription" : "Engineer's Jumpsuit",
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "chestm.png",
@@ -19,8 +19,8 @@
     "frontSleeve" : "fsleeve.png"
   },
   "colorOptions" : [
-    // BLUE
-    { "ffca8a" : "96cbe7", "e0975c" : "5588d4", "a85636" : "344495", "6f2919" : "1a1c51" },
+    // GREY
+    { "ffca8a" : "b5b5b5", "e0975c" : "808080", "a85636" : "555555", "6f2919" : "303030" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

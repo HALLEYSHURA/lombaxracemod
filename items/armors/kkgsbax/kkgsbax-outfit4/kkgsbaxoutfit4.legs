@@ -6,14 +6,14 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "legwear",
-  "description" : "Moderately comfy, reasonably easy to wear.",
-  "shortdescription" : "Specialist Pants",
+  "description" : "Airy pants for those long sessions at the computer.",
+  "shortdescription" : "Hacker's Pants",
   "tooltipKind" : "armor",
-  "maleFrames" : "pantsM.png",
-  "femaleFrames" : "pantsF.png",
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
   "colorOptions" : [
-    // BLUE
-    { "ffca8a" : "96cbe7", "e0975c" : "5588d4", "a85636" : "344495", "6f2919" : "1a1c51" },
+    // RED
+    { "ffca8a" : "f4988c", "e0975c" : "d93a3a", "a85636" : "932625", "6f2919" : "601119" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY
