@@ -3,6 +3,6 @@
     { "item" : "ironbar", "count" : 6 },
     { "item" : "climbingrope", "count" : 4 }
   ],
-  "output" : { "item" : "kkgsbaxsword", "count" : 1 },
+  "output" : { "item" : "kkgswrenchT1", "count" : 1 },
   "groups" : [ "craftinganvil", "weapons", "all" ]
 }

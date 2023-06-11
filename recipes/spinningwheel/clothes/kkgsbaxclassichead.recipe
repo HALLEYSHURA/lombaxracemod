@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "leather", "count" : 1 },
+    { "item" : "ironbar", "count" : 1 }
+  ],
+  "output" : { "item" : "kkgsbaxclassichead", "count" : 1 },
+  "groups" : [ "craftingwheel", "clothes" ]
+}

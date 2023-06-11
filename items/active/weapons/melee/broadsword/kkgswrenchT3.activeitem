@@ -1,19 +1,19 @@
 {
-  "itemName" : "kkgsbaxsword",
+  "itemName" : "kkgswrenchT3",
   "price" : 500,
   "maxStack" : 1,
-  "rarity" : "Common",
-  "description" : "A test weapon?",
-  "shortdescription" : "kkgsbax Sword",
+  "rarity" : "Uncommon",
+  "description" : "Forged with titanium, this experimental wrench is optimized for combat use.",
+  "shortdescription" : "OmniWrench 10K",
   "tooltipKind" : "sword",
   "category" : "broadsword",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","broadsword"],
-  "inventoryIcon" : "kkgsbaxsword.png",
+  "inventoryIcon" : "kkgswrenchT3.png",
   "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
   "animationParts" : {
     "handle" : "",
-    "blade" : "kkgsbaxsword.png"
+    "blade" : "kkgswrenchT3.png"
   },
   "animationCustom" : { },
   "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
@@ -23,6 +23,6 @@
     "fireTime" : 0.89,
     "baseDps" : 7
   },
-  "altAbilityType" : "downstab",
+  "altAbilityType" : "spinslash",
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
 }

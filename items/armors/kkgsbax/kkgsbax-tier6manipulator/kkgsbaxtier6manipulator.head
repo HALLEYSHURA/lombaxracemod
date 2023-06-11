@@ -9,8 +9,8 @@
   "shortdescription" : "Infernium Helm",
   "tooltipKind" : "armor",
 
-  "maleFrames" : "head.png",
-  "femaleFrames" : "head.png",
+  "maleFrames" : "headm.png",
+  "femaleFrames" : "headf.png",
   "mask" : "mask.png",
 
   "level" : 6,

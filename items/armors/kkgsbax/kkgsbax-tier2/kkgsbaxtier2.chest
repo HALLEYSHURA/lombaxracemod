@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestarmour",
-  "description" : "This scavenger breastplate offers a hardy layer of protection.",
-  "shortdescription" : "Tetrafiber Jacket",
+  "description" : "The chestguard's made of tungsten, so don't worry about a shot to the chest.",
+  "shortdescription" : "Tetrafiber Suit",
   "tooltipKind" : "armor",
 
   "maleFrames" : {
@@ -48,8 +48,8 @@
   "itemTags" : [ "tier2armour" ],
 
   "colorOptions" : [
-    // OLIVE
-    { "ffca8a" : "e6e6e6", "e0975c" : "91956c", "a85636" : "6b6f52", "6f2919" : "485035" },
+    // LIGHT GREY
+    { "ffca8a" : "cccccc", "e0975c" : "9e9e9e", "a85636" : "616161", "6f2919" : "383838" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

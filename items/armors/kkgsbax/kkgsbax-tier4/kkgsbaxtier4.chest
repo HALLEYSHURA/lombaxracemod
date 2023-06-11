@@ -48,8 +48,8 @@
   "itemTags" : [ "tier4armour" ],
 
   "colorOptions" : [
-    // SCARLET
-    { "ffca8a" : "e6e6e6", "e0975c" : "a32c1c", "a85636" : "812519", "6f2919" : "571a13" },
+    // GREY BLUE
+    { "ffca8a" : "9da8af", "e0975c" : "676f83", "a85636" : "3d3d51", "6f2919" : "24232f" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY
