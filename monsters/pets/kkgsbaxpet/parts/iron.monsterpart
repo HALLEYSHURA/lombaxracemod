@@ -1,0 +1,9 @@
+{
+  "name" : "iron",
+  "category" : "kkgsbaxpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "iron.png"
+  }
+}

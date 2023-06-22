@@ -1,0 +1,9 @@
+{
+  "name" : "titanium",
+  "category" : "kkgsbaxpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "titanium.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "brass",
+  "category" : "kkgsbaxpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "brass.png"
+  }
+}

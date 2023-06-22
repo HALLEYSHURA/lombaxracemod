@@ -1,0 +1,9 @@
+{
+  "name" : "tungsten",
+  "category" : "kkgsbaxpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "tungsten.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "standard",
+  "category" : "kkgsbaxpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "standard.png"
+  }
+}

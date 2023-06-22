@@ -1,0 +1,9 @@
+{
+  "name" : "military",
+  "category" : "kkgsbaxpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "military.png"
+  }
+}

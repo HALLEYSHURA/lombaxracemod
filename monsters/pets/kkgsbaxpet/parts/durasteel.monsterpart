@@ -1,0 +1,9 @@
+{
+  "name" : "durasteel",
+  "category" : "kkgsbaxpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "durasteel.png"
+  }
+}

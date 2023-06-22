@@ -1,0 +1,9 @@
+{
+  "name" : "peacekeeper",
+  "category" : "kkgsbaxpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "peacekeeper.png"
+  }
+}
