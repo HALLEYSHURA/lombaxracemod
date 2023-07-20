@@ -1,0 +1,11 @@
+[
+	{"op": "add", "path": "/scriptConfig/dialog/converse/default/kkgsbax",
+		"value": [
+            "Hello, fuzz-friend. I am thisss tribe's Greenfinger. Don't blame them if they get a bit exciteable, that's jussst how Floran are!",
+            "Greetings, Lombax. I am thisss tribe's Greenfinger. I do not know much of your kind, but I trust you won't causse us any trouble during your visit?",
+            "Greetings, fuzzy one. I am Greenfinger <selfname>. It iss my role to guide the Floran of this tribe.",
+            "Welcome, Lombax! I am Greenfinger <selfname>. I've heard your kind iss a rowdy bunch, perhapsss you might get along with Floran?",
+            "Welcome to our tribe, fuzzy one. I am Greenfinger <selfname>, and we shall treat you with resspect as long as you do the sssame."
+		]
+	}
+]

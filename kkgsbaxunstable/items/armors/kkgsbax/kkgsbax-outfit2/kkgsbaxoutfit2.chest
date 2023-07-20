@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestwear",
-  "description" : "Great for travel, but probably not the best on freezing planets.",
+  "description" : "Great for travel, but probably not the best on chilly planets.",
   "shortdescription" : "Courier's Vest",
   "tooltipKind" : "armor",
   "maleFrames" : {

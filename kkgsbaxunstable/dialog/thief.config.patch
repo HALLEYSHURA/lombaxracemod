@@ -1,0 +1,36 @@
+[{
+		"op": "add",
+		"path": "/accuse/kkgsbax",
+		"value": {
+			"default": [
+				"I saw that, thief. Put it back.",
+				"Just so you know, I'm armed. Quit it.",
+				"The last guy to steal from me got their skull ventilated, you know.",
+				"Don't think I didn't see that, thief.",
+				"Not a smart idea to steal from a Lombax. Just saying.",
+				"Don't do things you'll soon regret, buddy.",
+				"Do I need a sign in this place saying 'theives will be shot on sight'?",
+				"Your butt and my blaster are going to have a talk if you keep touching my stuff.",
+				"I'm calling the guards if you don't knock it off.",
+				"Hey, how would you feel if I took your stuff?",
+				"If you're doing what I think you're doing, you better stop it RIGHT NOW."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/alert/kkgsbax",
+		"value": {
+			"default": [
+				"Guards! There's a criminal here!",
+				"Looks like someone's losing their greedy little hands tonight! Guards!",
+				"Guards! Stop that thief!",
+				"There's a thief here! I need backup!",
+				"Hey! HEY! I'm being robbed!",
+				"You're not getting away with this! Guards!",
+				"That's it! You're dead, thief!",
+				"Guards, arrest this thief!"
+			]
+		}
+	}
+]

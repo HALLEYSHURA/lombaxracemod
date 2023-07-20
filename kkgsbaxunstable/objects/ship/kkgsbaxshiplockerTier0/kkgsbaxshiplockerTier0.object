@@ -16,7 +16,7 @@
   "humanDescription" : "A storage locker. It doesn't seem to be working.",
   "hylotlDescription" : "An elegant storage solution. It's not currently powered.",
   "novakidDescription" : "A locker. Ain't much use 'til it's fixed.",
-  "kkgsbaxDescription" : "Could store some stuff in here if it was working.",
+  "kkgsbaxDescription" : "Could store some stuff in here if the lock was working.",
   
   "inventoryIcon" : "shiplockericonTier0.png",
   "orientations" : [

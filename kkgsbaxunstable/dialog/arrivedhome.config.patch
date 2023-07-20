@@ -1,0 +1,56 @@
+[
+	{
+		"op": "add",
+		"path": "/beacon/kkgsbax",
+		"value": {
+			"default": [
+				"You rang?",
+				"You called?",
+				"You need something?",
+				"Yeah?",
+				"Yeah, yeah, I heard ya.",
+				"Lemme guess, you need me to fix something?",
+				"What do you want?",
+				"Hey there.",
+				"What, am I late on payment?",
+				"How's it going?",
+				"You need me for anything?",
+				"What's up?",
+				"You wanna talk?",
+				"What do you need me for?",
+				"Can I help you?"
+			],
+			"kkgsbax": [
+				"You rang?",
+				"You called?",
+				"You need something?",
+				"You need something, pal?",
+				"Yeah?",
+				"Yeah, yeah, I heard ya.",
+				"What do you want?",
+				"Hey there.",
+				"Hey there, friend.",
+				"I take it I'm late on payment?",
+				"How's it going?",
+				"How's it going, buddy?",
+				"You need me for anything?",
+				"What's up?",
+				"What's up, fellow 'bax?",
+				"You wanna talk?",
+				"What do you need me for?",
+				"Can I help you?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/kkgsbax",
+		"value": {
+			"default": [
+				"Thanks for the nice place, buddy. Here's a gift.",
+				"This should cover it.",
+				"Happy to be a productive member of society."
+			]
+		}
+	}
+]

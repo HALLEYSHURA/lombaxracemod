@@ -1,0 +1,16 @@
+[  
+  {  
+    "op" : "add",
+    "path" : "/hail/kkgsbax",
+    "value" : {  
+      "default" : [  
+        "Watch yourself, buddy.",
+        "Crime's illegal, bucko.",
+		"Don't start anything, and we'll get along just fine.",
+		"My trigger finger itches.",
+		"Man, I just wanna shoot something right now.",
+		"On duty, can't talk right now."
+      ]
+    }
+  }
+]

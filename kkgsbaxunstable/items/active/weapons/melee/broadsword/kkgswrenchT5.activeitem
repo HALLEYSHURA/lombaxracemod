@@ -3,7 +3,7 @@
   "price" : 500,
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "A top-of-the-line wrench for the modern lombax. These don't come by easily.",
+  "description" : "A top-of-the-line wrench for the modern Lombax. These don't come by easily.",
   "shortdescription" : "OmniWrench Millenium",
   "tooltipKind" : "sword",
   "category" : "broadsword",

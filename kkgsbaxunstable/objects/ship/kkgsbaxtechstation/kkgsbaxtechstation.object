@@ -40,19 +40,19 @@
   "chatPortrait" : "/ai/portraits/kkgsbaxportrait.png:yell.1",
   "dialog" : {
     "wakeUp" : [
-      [ "Rebooting...", "/ai/portraits/kkgsbaxportrait.png:unique.1" ],
-      [ "I am S.A.I.L, your Ship-based Artificial Intelligence Lattice. I manage the maintainance of your ship.", "/ai/portraits/kkgsbaxportrait.png:talk.0" ],
-      [ "I am also programmed to offer you information and advice.", "/ai/portraits/kkgsbaxportrait.png:talk.1" ],
-      [ "Earth was attacked by an unknown force, and was subsequently annihilated.", "/ai/portraits/kkgsbaxportrait.png:talk.0" ],
-      [ "The ship's navigation systems were damaged in our escape. Our location is currently unknown.", "/ai/portraits/kkgsbaxportrait.png:talk.1" ]
+      [ "Reboot failed. S.A.I.L system firmware damaged. External AI attempting to boot...", "/ai/portraits/kkgsbaxportraitstat.png:unique.0" ],
+      [ "You're awake! Do not be alarmed, I have been able to interface with your ship's S.A.I.L systems.", "/ai/portraits/kkgsbaxportrait.png:talk.1" ],
+      [ "I will be communicating though S.A.I.L from this point on. I hope I can be of assistance.", "/ai/portraits/kkgsbaxportrait.png:talk.0" ],
+      [ "Though I'm glad to see you're alright, I'm afraid your ship was not so fortunate.", "/ai/portraits/kkgsbaxportrait.png:refuse.1" ],
+      [ "The ship's navigation systems were damaged in our escape. Our location is currently unknown.", "/ai/portraits/kkgsbaxportrait.png:refuse.0" ]
     ],
     "wakePlayer" : [
-      [ "System is down, please reboot.", "/ai/portraits/kkgsbaxportrait.png:unique.1"],
-      [ "Please reboot the system.", "/ai/portraits/kkgsbaxportrait.png:unique.1"],
-      [ "Reboot process remains uninitiated.", "/ai/portraits/kkgsbaxportrait.png:unique.1"],
-      [ "To make use of your S.A.I.L please reboot.", "/ai/portraits/kkgsbaxportrait.png:unique.1" ],
-      [ "Rebooting has shown to improve ship interaction satisfaction levels by 73%.", "/ai/portraits/kkgsbaxportrait.png:unique.1"],
-      [ "Rebooting requires a conscious entity to interact with the S.A.I.L console.", "/ai/portraits/kkgsbaxportrait.png:unique.1" ]
+      [ "System is down, please reboot.", "/ai/portraits/kkgsbaxportraitstat.png:unique.1"],
+      [ "Please reboot the system.", "/ai/portraits/kkgsbaxportraitstat.png:unique.2"],
+      [ "Reboot process remains uninitiated.", "/ai/portraits/kkgsbaxportraitstat.png:unique.3"],
+      [ "To make use of your S.A.I.L please reboot.", "/ai/portraits/kkgsbaxportraitstat.png:unique.4" ],
+      [ "Rebooting has shown to improve ship interaction satisfaction levels by 73%.", "/ai/portraits/kkgsbaxportraitstat.png:unique.5"],
+      [ "Rebooting requires a conscious entity to interact with the S.A.I.L console.", "/ai/portraits/kkgsbaxportraitstat.png:unique.6" ]
     ]
   },
   "uniqueId" : "techstation"
