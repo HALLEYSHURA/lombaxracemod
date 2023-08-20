@@ -1,10 +1,47 @@
 {
 	"id" : "kkgsbaxdiary",
-	"title" : "On Lombaxes",
+	"title" : "An Entry on Lombaxes",
 	"description" : "An excerpt from the Encyclopaedia Solana.",
 	"icon" : "kkgsbaxdiarycover.png",
 	"contentPages" : [
-    "Lore here."
+    "^gray;From the Encyclopaedia Solana:^reset;
+
+The ^orange;Lombax^reset; ^yellow;(lomos lombax)^reset; is a species of sapient bipedal mammalian, easily identified by their striped fur and distinctive ears. Lombaxes are notable as one of the few races in the Solana Galaxy to have hands with five fingers.
+
+They are also (in)famously known for their affinity for technology; many famous Lombaxes tend to be inventors and engineers.",
+    "^cyan;-CHARACTERISTICS-^reset;
+Lombaxes are often described as resembling felines or rodents. Ear size varies between sexes, with males having larger ears and females often having smaller ears, though larger-eared females are not unheard of.
+
+Fur coats come in a vast array of colors; examples of natural colors include earthy browns, rusty reds, and warm yellows, though genetic modification has led to the rise of more vivid exotic fur colors.",
+    "The hands of a Lombax possess five fingers, allowing for greater dexterity compared to most other Solana races. Their feet are flat and simple in comparison, with two large claws and one smaller vestigal claw on the outwards of the foot.
+
+Contrary to popular belief, both sexes have tails.
+
+Average adult height ranges from 4.5 ft to 6 ft. Average lifespan is roughly 70 Earth years.",
+	"^cyan;-HABITAT AND ECOLOGY-^reset;
+Lombaxes are an uncommon sight across the universe, and they do not have a homeworld in the present day. Their original home planet is thought to have been Lumos, a world once known for its sprawling cities and technological marvels.
+
+Lumos was destroyed after rival corporations unleashed devastating weapons against each other, literally shattering the planet in the conflict.",
+    "While primarily adapted for life on desert worlds, Lombaxes and their colonies can be found in a variety of biomes. Arid and temperate climates tend to be the preferred places for their settlements, though some Lombax communities have been established on colder planets.
+
+Lombaxes are omnivorous. Dishes made from thorn fruit, saurbeast meat, and sand tubers are traditional favorites.",
+    "^cyan;-BEHAVIOUR-^reset;
+Perhaps the most notable thing about Lombaxes is their ingenuity and adventurous spirit. They're not afraid to solve problems hands-on, and relish an opportunity to put their skills to the test, be it with gadgetry or gunplay.
+
+Fun-loving as they are, Lombaxes have a pechant for mischief and tend to be reckless to a fault. Many contractors hesitate to hire Lombaxes as they tend to shoot first and ask questions later.",
+    "Their ambitious nature has also been a point of contention in intergalactic relations. In the past, the Lombaxes have feverishly pursued technological progress, caring little for the risks and consequences that come with these advancements. Lombaxes have also been fiercely competitive when it came to technological supremacy.
+
+It is no doubt that this drive is what led to the war that shattered Lumos.",
+    "^cyan;-LOMBAX CULTURE-^reset;
+Since the destruction of Lumos, the Lombax race has been scattered across the stars, and much of their original history and heritage has been lost. Even so, the spirit of creation and curiousity still lives on in present-day Lombax culture.
+
+Creation, in particular, is the bedrock of this culture. From a young age, a Lombax quickly develops a love of building, and even adult Lombaxes will make things for fun than for innovation.",
+    "A Lombax is rarely seen without a tool at hand: wrenches, hammers, and screwdrivers are popular as both tools and weapons.
+
+Even their colonies and settlements are built by themselves, or even repurposed from abandoned buildings. To a Lombax, everything has a use, and more thrifty individuals will often make do with any scrap material at hand. Scavengers and junkers tend to be popular careers as a result.",
+    "The culture of Lombax colonies often varies from planet to planet, but generally shares the same core tenets; a strong sense of community and resourcefulness are vital to the colony's longevity.
+
+Independence has also been a defining aspect of their society. It's rare for a Lombax to stay within their birth colony for their life, and oftentimes they'll leave their birth planet to chart their own path in the galaxy, or even start a colony of their own."
 	],
 		"itemConfig" : {
 		"rarity" : "common",
