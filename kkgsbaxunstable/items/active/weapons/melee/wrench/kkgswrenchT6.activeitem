@@ -1,0 +1,29 @@
+{
+  "itemName" : "kkgswrenchT6",
+  "price" : 1250,
+  "level" : 6,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "An unauthorized experimental upgrade of the best wrench in the galaxy. Patent pending.",
+  "shortdescription" : "OmniWrench Millenium X",
+  "tooltipKind" : "sword",
+  "category" : "uniqueWeapon",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","melee"],
+  "inventoryIcon" : "kkgswrenchT6.png",
+  "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "kkgswrenchT6.png"
+  },
+  "animationCustom" : { },
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+  "elementalType" : "electric",
+  "primaryAbilityType" : "broadswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 0.90,
+    "baseDps" : 11.5
+  },
+  "altAbilityType" : "milleniumaura",
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

@@ -1,3 +1,7 @@
 [
-{ "op" : "add", "path" : "/defaultCodexes/kkgsbax", "value" : [ "protectorate1", "protectorate2", "kkgsbaxdiary" ] }
+    { "op" : "add", "path" : "/defaultCodexes/kkgsbax", "value" : [ "protectorate1", "protectorate2", "kkgsbaxdiary" ] },
+    { "op" : "add",
+        "path" : "/deploymentConfig/speciesStarterMechBody/kkgsbax",
+        "value" : "mechbodykkgsbaxproto"
+    }
 ]

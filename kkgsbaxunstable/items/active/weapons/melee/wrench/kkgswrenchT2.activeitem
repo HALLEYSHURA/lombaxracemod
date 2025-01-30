@@ -1,14 +1,15 @@
 {
   "itemName" : "kkgswrenchT2",
   "price" : 500,
+  "level" : 2,
   "maxStack" : 1,
   "rarity" : "Common",
   "description" : "A popular OmniWrench model for mechanics and fighters alike.",
   "shortdescription" : "OmniWrench 8K",
   "tooltipKind" : "sword",
-  "category" : "broadsword",
+  "category" : "uniqueWeapon",
   "twoHanded" : true,
-  "itemTags" : ["weapon","melee","broadsword"],
+  "itemTags" : ["weapon","melee"],
   "inventoryIcon" : "kkgswrenchT2.png",
   "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
   "animationParts" : {
@@ -20,9 +21,9 @@
   "elementalType" : "physical",
   "primaryAbilityType" : "broadswordcombo",
   "primaryAbility" : {
-    "fireTime" : 0.89,
-    "baseDps" : 7
+    "fireTime" : 0.85,
+    "baseDps" : 9.5
   },
-  "altAbilityType" : "spinslash",
+  "altAbilityType" : "risingslash",
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
 }

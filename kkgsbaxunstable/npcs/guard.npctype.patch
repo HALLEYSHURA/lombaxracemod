@@ -1,0 +1,145 @@
+[
+  { "op" : "add", "path" : "/items/kkgsbax",
+	"value" : [
+	  [0, [
+		{
+		  "chest" : [
+			{ "name" : "mercenarychest", "data" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] } }
+		  ],
+		  "legs" : [
+			{ "name" : "mercenarylegs", "data" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] } }
+		  ],
+		  "head" : [
+			{ "name" : "mercenaryhead", "data" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] } }
+		  ],
+		  "primary" : [
+			"npcshortsword",
+			"npcbroadsword",
+			"npcaxe",
+			"npchammer",
+			"npcspear"
+		  ],
+		  "sheathedprimary" : [
+			"npcpistol"
+		  ],
+		  "alt" : [
+			"riotshield"
+		  ]
+		  }
+		]
+	  ],
+	  [2, [
+		{
+		  "chest" : [
+			{ "name" : "trackerchest", "data" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] } }
+		  ],
+		  "legs" : [
+			{ "name" : "trackerlegs", "data" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] } }
+		  ],
+		  "head" : [
+			{ "name" : "trackerhead", "data" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] } }
+		  ],
+		  "primary" : [
+			"npcshortsword",
+			"npcbroadsword",
+			"npcaxe",
+			"npchammer",
+			"npcspear"
+		  ],
+		  "sheathedprimary" : [
+			"npcmachinepistol"
+		  ],
+		  "alt" : [
+			"riotshield"
+		  ]
+		  }
+		]
+	  ],
+	  [3, [
+		{
+		  "chest" : [
+			{ "name" : "voyagerchest", "data" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] } }
+		  ],
+		  "legs" : [
+			{ "name" : "voyagerlegs", "data" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] } }
+		  ],
+		  "head" : [
+			{ "name" : "voyagerhead", "data" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] } }
+		  ],
+		  "primary" : [
+			"npcshortsword",
+			"npcbroadsword",
+			"npcaxe",
+			"npchammer",
+			"npcspear"
+		  ],
+		  "sheathedprimary" : [
+			"npcassaultrifle"
+		  ],
+		  "alt" : [
+			"riotshield"
+		  ]
+		  }
+		]
+	  ],
+	  [4, [
+		{
+		  "chest" : [
+			{ "name" : "pathfinderchest", "data" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] } }
+		  ],
+		  "legs" : [
+			{ "name" : "pathfinderlegs", "data" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] } }
+		  ],
+		  "head" : [
+			{ "name" : "pathfinderhead", "data" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] } }
+		  ],
+		  "primary" : [
+			"npcshortsword",
+			"npcbroadsword",
+			"npcaxe",
+			"npchammer",
+			"npcspear"
+		  ],
+		  "sheathedprimary" : [
+			"npcshotgun",
+			"npcpistol"
+		  ],
+		  "alt" : [
+			"riotshield"
+		  ]
+		  }
+		]
+	  ],
+	  [5, [
+		{
+		  "chest" : [
+			{ "name" : "camochest", "data" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] } }
+		  ],
+		  "legs" : [
+			{ "name" : "camolegs", "data" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] } }
+		  ],
+		  "head" : [
+			{ "name" : "camohead", "data" : { "colorIndex" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] } }
+		  ],
+		  "primary" : [
+			"npcshortsword",
+			"npcbroadsword",
+			"npcaxe",
+			"npchammer",
+			"npcspear"
+		  ],
+		  "sheathedprimary" : [
+			"npcassaultrifle",
+			"npcmachinepistol",
+			"npcshotgun",
+			"npcsniperrifle"
+		  ],
+		  "alt" : [
+			"riotshield"
+		  ]
+		  }
+		]
+	  ]
+	]
+  }
+]

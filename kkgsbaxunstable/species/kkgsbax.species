@@ -105,7 +105,7 @@
       "name" : "female",
       "image" : "/interface/title/kkgsbaxfemico.png",
       "characterImage" : "/interface/title/kkgsbaxfemale.png",
-      "hair" : [ "f0", "f0a", "f0b", "f1", "f1a", "f1b", "f1s", "f1as", "f1bs", "f2", "f2a", "f2b", "f3", "f3a", "f3b", "f4", "f4a", "f4b", "f5", "f5a", "f5b", "f6", "f6a", "f7", "f7a", "f7b", "f8", "f8a", "f8b", "f9", "f9a", "f9b", "f10", "f10a", "f10b", "f10s", "f10as", "f10bs", "f11", "f11a", "f11b", "f12", "f12a", "f12b", "f13", "f13a", "f13b", "f14", "f14a", "f14b", "f15", "f15a", "f15b" ],
+      "hair" : [ "f0", "f0a", "f0b", "f1", "f1a", "f1b", "f1s", "f1as", "f1bs", "f2", "f2a", "f2b", "f3", "f3a", "f3b", "f4", "f4a", "f4b", "f5", "f5a", "f5b", "f6", "f6a", "f7", "f7a", "f7b", "f8", "f8a", "f8b", "f9", "f9a", "f9b", "f10", "f10a", "f10b", "f10s", "f10as", "f10bs", "f11", "f11a", "f11b", "f12", "f12a", "f12b", "f13", "f13a", "f13b", "f14", "f14a", "f14b", "f15", "f15a", "f15b", "f16", "f16a", "f16b" ],
       "shirt" : [ "kkgsbaxoutfit1chest", "kkgsbaxoutfit2chest", "kkgsbaxoutfit3chest", "kkgsbaxoutfit4chest" ],
       "pants" : [ "kkgsbaxoutfit1legs", "kkgsbaxoutfit2legs", "kkgsbaxoutfit3legs", "kkgsbaxoutfit4legs" ],
       "facialHairGroup" : "",

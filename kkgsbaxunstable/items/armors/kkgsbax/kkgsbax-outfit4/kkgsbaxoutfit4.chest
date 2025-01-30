@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestwear",
-  "description" : "The pockets are full of shady-looking business cards...",
+  "description" : "The pockets are full of bootleg disks and shady-looking business cards...",
   "shortdescription" : "Hacker's Vest",
   "tooltipKind" : "armor",
   "maleFrames" : {

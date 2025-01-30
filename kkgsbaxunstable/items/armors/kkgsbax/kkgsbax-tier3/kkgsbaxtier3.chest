@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "chestarmour",
-  "description" : "A special titanium alloy renders this armor tougher than steel.",
+  "description" : "A special titanium alloy renders the chestplate tougher than steel.",
   "shortdescription" : "Hypersteel Chestguard",
   "tooltipKind" : "armor",
 

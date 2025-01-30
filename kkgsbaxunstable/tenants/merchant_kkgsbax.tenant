@@ -1,0 +1,26 @@
+{
+  "name": "merchant_kkgsbax",
+  "priority": 2,
+
+  "colonyTagCriteria": {
+    "light": 1,
+    "door": 1,
+    "storage": 8,
+    "commerce": 8
+  },
+
+  "tenants": [
+    {
+      "spawn": "npc",
+      "species": "kkgsbax",
+      "type": "merchanttenant",
+      "overrides": {
+       }
+     }
+   ],
+
+  "rent": {
+    "periodRange": [900.0, 1800.0],
+    "pool": "merchantGift"
+  }
+}

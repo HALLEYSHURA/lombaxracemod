@@ -6,7 +6,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "legwear",
-  "description" : "Airy pants for those long sessions at the computer.",
+  "description" : "Moisture-wicking pants for those long sessions at the computer.",
   "shortdescription" : "Hacker's Pants",
   "tooltipKind" : "armor",
   "maleFrames" : "pants.png",

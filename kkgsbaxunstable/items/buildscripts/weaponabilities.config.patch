@@ -1,0 +1,7 @@
+[
+  {
+    "op" : "add",
+    "path" : "/milleniumaura",
+    "value" : "/items/active/weapons/melee/abilities/wrench/milleniumaura.weaponability"
+  }
+]

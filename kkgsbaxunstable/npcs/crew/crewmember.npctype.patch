@@ -1,0 +1,58 @@
+[
+  {
+	"op" : "add",
+	"path" : "/scriptConfig/dialog/crewmember/offer/kkgsbax",
+	"value" :{ 
+	  "default"	: [ 
+		"Hey, your crew looking for an extra pair of hands?"
+	  ]
+	}
+  },
+  {
+	"op" : "add",
+	"path" : "/scriptConfig/dialog/crewmember/roleDescription/kkgsbax",
+	"value" :{ 
+	  "default"	: [ 
+		"test"
+	  ]
+	}
+  },
+  {
+	"op" : "add",
+	"path" : "/scriptConfig/dialog/crewmember/respawned/kkgsbax",
+	"value" :{ 
+	  "default"	: [ 
+		"Well, that hurt.",
+		"Ow.",
+		"At least now I know the respawner's working."
+	  ]
+	}
+  },
+  {
+	"op" : "add",
+	"path" : "/scriptConfig/dialog/crewmember/unfollow/kkgsbax",
+	"value" :{ 
+	  "default"	: [ 
+		"Holding.",
+	  ]
+	}
+  },
+  {
+	"op" : "add",
+	"path" : "/scriptConfig/dialog/crewmember/follow/kkgsbax",
+	"value" :{ 
+	  "default"	: [ 
+		"Charge!"
+	  ]
+	}
+  },
+  {
+	"op" : "add",
+	"path" : "/scriptConfig/dialog/crewmember/cantreach/kkgsbax",
+	"value" :{ 
+	  "default"	: [ 
+		"Dangit."
+	  ]
+	}
+  }
+]

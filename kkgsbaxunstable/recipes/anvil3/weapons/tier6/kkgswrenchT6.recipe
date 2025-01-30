@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "solariumstar", "count" : 4 },
+    { "item" : "kkgswrenchT5", "count" : 1 }
+  ],
+  "output" : { "item" : "kkgswrenchT6", "count" : 1 },
+  "groups" : [ "craftinganvil3", "weapons", "all" ]
+}

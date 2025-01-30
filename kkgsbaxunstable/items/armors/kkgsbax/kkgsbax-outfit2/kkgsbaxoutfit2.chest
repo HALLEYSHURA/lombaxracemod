@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestwear",
-  "description" : "Great for travel, but probably not the best on chilly planets.",
+  "description" : "A sleeveless top that's great for travel, but probably not the best on chilly planets.",
   "shortdescription" : "Courier's Vest",
   "tooltipKind" : "armor",
   "maleFrames" : {

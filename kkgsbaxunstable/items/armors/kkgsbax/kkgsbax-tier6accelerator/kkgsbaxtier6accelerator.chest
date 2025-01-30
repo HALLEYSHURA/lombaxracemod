@@ -5,18 +5,18 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "chestarmour",
-  "description" : "The circuitry within this armor regulates breath rate and helps the wearer keep a steady aim.",
+  "description" : "While based off knockoff DreadZone blueprints, this solarium-reinforced armor is just as powerful as its inspiration.",
   "shortdescription" : "Adamantine Chestguard",
   "tooltipKind" : "armor",
 
   "maleFrames" : {
-    "body" : "chestm.png",
+    "body" : "chest.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
 
   "femaleFrames" : {
-    "body" : "chestf.png",
+    "body" : "chest.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },

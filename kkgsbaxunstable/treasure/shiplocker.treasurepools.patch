@@ -4,12 +4,12 @@
     "path": "/kkgsbaxStarterTreasure",
     "value": [[0, {
       "fill" : [
-				{"pool" : "starterTreasure"},
-				{"item" : [ "kkgswrenchT1", 1 ]},
-				{"item" : [ "kkgsbaxtier1chest", 1 ]},
-				{"item" : [ "kkgsbaxtier1pants", 1 ]},
-				{"item" : [ "kkgsbaxtier1head", 1 ]},
-				{"item" : [ "kkgsbaxclassicback", 1 ]}
+		{"pool" : "starterTreasure"},
+		{"item" : [ "kkgswrenchT1", 1 ]},
+		{"item" : [ "kkgsbaxtier1chest", 1 ]},
+		{"item" : [ "kkgsbaxtier1pants", 1 ]},
+		{"item" : [ "kkgsbaxtier1head", 1 ]},
+		{"item" : [ "kkgsbaxclassicback", 1 ]}
       ]
     }]]
   }

@@ -1,0 +1,122 @@
+[
+{ "op" : "add", "path": "/items/kkgsbax", "value": [
+	[0, [
+		{
+			"head" : [ { "name" : "mercenaryhead" } ],
+			"chest" : [ { "name" : "mercenarychest" } ],
+			"legs" : [ { "name" : "mercenarylegs" } ],
+			"primary" : [
+				"npcspear",
+				"npcaxe",
+				"npchammer",
+				"npcbroadsword",
+				"npcshortsword"
+			],
+			"sheathedprimary" : [
+				"npcpistol",
+				"npcmachinepistol"
+			],
+			"alt" : [
+				{ "name" : "commonsmallshield" },
+				{ "name" : "commonlargeshield" }
+			]
+		},
+		{
+			"head" : [ { "name" : "mercenaryhead" } ],
+			"chest" : [ { "name" : "mercenarychest" } ],
+			"legs" : [ { "name" : "mercenarylegs" } ],
+			"primary" : [
+				"npcassaultrifle",
+				"npcshotgun",
+				"npcsniperrifle"
+			],
+			"sheathedprimary" : [
+				"npcdagger"
+			],
+			"alt" : [
+				{ "name" : "commonsmallshield" },
+				{ "name" : "commonlargeshield" }
+			]
+		}
+	] ],
+	[2, [
+		{
+			"head" : [ { "name" : "trackerhead" } ],
+			"chest" : [ { "name" : "trackerchest" } ],
+			"legs" : [ { "name" : "trackerlegs" } ],
+			"primary" : [
+				"npcspear",
+				"npcaxe",
+				"npchammer",
+				"npcbroadsword",
+				"npcshortsword"
+			],
+			"sheathedprimary" : [
+				"npcpistol",
+				"npcmachinepistol"
+			],
+			"alt" : [
+				{ "name" : "commonsmallshield" },
+				{ "name" : "commonlargeshield" }
+			]
+		},
+		{
+			"head" : [ { "name" : "trackerhead" } ],
+			"chest" : [ { "name" : "trackerchest" } ],
+			"legs" : [ { "name" : "trackerlegs" } ],
+			"primary" : [
+				"npcassaultrifle",
+				"npcshotgun",
+				"npcsniperrifle"
+			],
+			"sheathedprimary" : [
+				"npcdagger"
+			],
+			"alt" : [
+				{ "name" : "commonsmallshield" },
+				{ "name" : "commonlargeshield" }
+			]
+		}
+	] ],
+	[3, [
+		{
+			"head" : [ { "name" : "voyagerhead" } ],
+			"chest" : [ { "name" : "voyagerchest" } ],
+			"legs" : [ { "name" : "voyagerlegs" } ],
+			"primary" : [
+				"npcspear",
+				"npcaxe",
+				"npchammer",
+				"npcbroadsword",
+				"npcshortsword"
+			],
+			"sheathedprimary" : [
+				"npcpistol",
+				"npcmachinepistol"
+			],
+			"alt" : [
+				{ "name" : "commonsmallshield" },
+				{ "name" : "commonlargeshield" }
+			]
+		},
+		{
+			"head" : [ { "name" : "voyagerhead" } ],
+			"chest" : [ { "name" : "voyagerchest" } ],
+			"legs" : [ { "name" : "voyagerlegs" } ],
+			"primary" : [
+				"npcassaultrifle",
+				"npcshotgun",
+				"npcsniperrifle"
+			],
+			"sheathedprimary" : [
+				"npcdagger"
+			],
+			"alt" : [
+				{ "name" : "commonsmallshield" },
+				{ "name" : "commonlargeshield" }
+			]
+		}
+	] ]
+]
+}
+]
